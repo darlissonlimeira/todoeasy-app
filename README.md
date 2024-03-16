@@ -13,4 +13,8 @@ TodoEasy is an app built with flutter.
 
 ### Screenshots
 
-![](/readme_images/image_1.png) ![](/readme_images/image_3.png).![](/readme_images/image_3.png).
+<div style="display: flex; min-width: 100%;">
+    <img src="readme_images/image_1.png">
+    <img src="readme_images/image_2.png">
+    <img src="readme_images/image_3.png">
+</div>
