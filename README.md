@@ -6,5 +6,5 @@ Libs:
     - go_router\  
     - flutter_svg\
     - isar\
-    - path_provider
+    - path_provider\
     - shared_preferences\ 
